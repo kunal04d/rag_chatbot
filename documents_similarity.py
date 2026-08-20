@@ -8,6 +8,9 @@ embedding = HuggingFaceEmbeddings(
 documents = [
     "Delhi is the capital of India",
     "delhi is capital of india with good infra as delhi need good infra",
+    "india need delhi as capital",
+    "dhaka is capital of Bangladesh ",
+    
     
     "Kolkata is the capital of West Bengal",
     "Paris is the capital of France"
@@ -32,4 +35,3 @@ print(query)
 print(documents[index])
 
 print("similarity score :" ,score)
-#post
