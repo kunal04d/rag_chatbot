@@ -12,8 +12,8 @@ documents = [
     "dhaka is capital of Bangladesh ",
     
     
-    "Kolkata is the capital of West Bengal",
-    "Paris is the capital of France"
+    "Kolkata is the capital of West Bengal"
+
 ]
 
 query = "what is the capital of India"
