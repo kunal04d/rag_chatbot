@@ -32,3 +32,4 @@ print(query)
 print(documents[index])
 
 print("similarity score :" ,score)
+#post
