@@ -1,0 +1,38 @@
+# Frontend
+streamlit
+
+# Backend API
+fastapi
+uvicorn[standard]
+python-multipart
+
+# RAG and LLM
+langchain
+langchain-community
+langchain-text-splitters
+langchain-qdrant
+langchain-huggingface
+langchain-openai
+
+# PDF processing
+pymupdf
+
+# Embeddings
+sentence-transformers
+
+# Vector database
+qdrant-client
+
+# Cache
+redis
+
+# Database
+sqlalchemy
+psycopg[binary]
+
+# Configuration and environment variables
+python-dotenv
+pydantic-settings
+
+# HTTP requests
+httpx
