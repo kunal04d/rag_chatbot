@@ -8,7 +8,7 @@ from langchain_qdrant import QdrantVectorStore
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-DOCUMENTS_DIR = BASE_DIR / "data" / "documents"
+DOCUMENTS_DIR = BASE_DIR / "data" 
 QDRANT_PATH = BASE_DIR / "qdrant_data"
 
 COLLECTION_NAME = "notes"
